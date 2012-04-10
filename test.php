@@ -1,6 +1,6 @@
 <?php  print 'hello'; 
 
-print "hello world";
+print "hello terra";
 
 
 print "Bugfix 001";
